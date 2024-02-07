@@ -7,8 +7,8 @@ We are an academic research lab who work to understand cardiovascular disease pr
 ## Members 
 <!-- In alphabetical order by surname -->
 
-[![james-small-head-github](https://github.com/EalesLabCompBio/EalesLabCompBio.github.io/assets/1412565/4e6cc27a-9eb0-4579-97a6-bae8df237707)](james.md)
-James Eales - Lecturer in Cardiovascular Computational Biology
+[![james-small-head-github](https://github.com/EalesLabCompBio/EalesLabCompBio.github.io/assets/1412565/4e6cc27a-9eb0-4579-97a6-bae8df237707)
+James Eales - Lecturer in Cardiovascular Computational Biology](james.md)
 
 
 
