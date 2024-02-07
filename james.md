@@ -1,4 +1,6 @@
-Dr James Eales
-Group leader
-Lecturer in Cardiovascular Computational Biology
+# Dr James Eales
+
+## Group leader
+
+### Lecturer in Cardiovascular Computational Biology
 
