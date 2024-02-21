@@ -9,7 +9,7 @@ Our main GitHub is [here](https://github.com/EalesLabCompBio)
 <!-- In alphabetical order by surname -->
 
 [![james-small-head-github](https://github.com/EalesLabCompBio/EalesLabCompBio.github.io/assets/1412565/4e6cc27a-9eb0-4579-97a6-bae8df237707)
-James Eales - Lecturer in Cardiovascular Computational Biology](james.md)
+James Eales - Lecturer in Cardiovascular Computational Biology](james.html)
 
 
 
