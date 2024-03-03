@@ -3,9 +3,9 @@
 Welcome to the Eales lab!
 We are an academic research lab who work to understand cardiovascular disease processes using computational methods and large multiomic data sets. We are part of the [Division of Cardiovascular Sciences](https://research.manchester.ac.uk/en/organisations/division-of-cardiovascular-sciences) at the [University of Manchester](https://www.manchester.ac.uk/). 
 
-Our main GitHub is [here](https://github.com/EalesLabCompBio)
+Our main GitHub is [here](https://github.com/EalesLabCompBio){:target="_blank"}
 
-University of Manchester website is [here](https://research.manchester.ac.uk/en/persons/james.eales)
+University of Manchester website is [here](https://research.manchester.ac.uk/en/persons/james.eales){:target="_blank"}
 
 ## Members 
 <!-- In alphabetical order by surname -->
@@ -47,7 +47,7 @@ We are interested in understanding more about the biology behind hypertension, c
 
 ## Publications
 
-[All lab publications listed here](https://research.manchester.ac.uk/en/persons/james.eales/publications/)
+[All lab publications listed here](https://research.manchester.ac.uk/en/persons/james.eales/publications/){:target="_blank"}
 
 
 ## Posters and presentations
