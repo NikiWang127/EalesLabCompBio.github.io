@@ -46,4 +46,18 @@ We are interested in understanding more about the biology behind hypertension, c
 
 ---
 
+### David Scannalli - Research Assistant
+
+---
+
+### Yong Sun - PhD Student 
+
+
+### Maciej Drzal - PhD Student
+
+---
+
+### Sushant Saluja - Clinical PhD Student
+
+---
 
