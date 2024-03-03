@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: Eales Lab Webpage
 description: Webpage for the Eales Lab at the University of Manchester
+show_downloads: [true]
+google_analytics: [Your Google Analytics tracking ID]
