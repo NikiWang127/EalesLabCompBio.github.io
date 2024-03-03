@@ -37,8 +37,8 @@ James Eales - Lecturer in Cardiovascular Computational Biology and Principal Inv
 ### James Eales - Lecturer in Cardiovascular Computational Biology and Principal Investigator
 We run in-silico experiments to investigate the biological mechanisms causal to cardiovascular disease.
 We do multiomics, deep-learning, molecular diagnostics, translational research, single-cell transcriptomics.
-We are interested in understanding more about the biology behind hypertension, coronary artery disease, kidney histopathology and alternative splicing. 
-   
+We are interested in understanding more about the biology behind hypertension, coronary artery disease, kidney histopathology and alternative splicing.
+
 **Email** - `james.eales[at sign]manchester.ac.uk`  
 **Affiliation** - Division of Cardiovascular Sciences, School of Medical Sciences, Faculty of Biology, Medicine and Health.  
 **Location** - AV Hill Building, Manchester  
@@ -59,12 +59,12 @@ Scientific Advisory Board for Manchester BRC - “Outstanding Science” theme, 
 
 James Eales - *Genetic prediction of kidney multi-omics to identify new therapeutic and diagnostic targets for hypertension*  
 Scientific Advisory Board for Manchester BRC - “Outstanding Science” theme, February 2024  
-[je-brc-srb-final](https://github.com/EalesLabCompBio/EalesLabCompBio.github.io/assets/1412565/7516c7b5-b015-4d03-afcb-123481b019ca)
+![je-brc-srb-final](https://github.com/EalesLabCompBio/EalesLabCompBio.github.io/assets/1412565/7516c7b5-b015-4d03-afcb-123481b019ca)
 
 
 James Eales - *Urinary cell transcriptomics for non-invasive renal health monitoring*  
 BRC Northern Conference, Leeds, Nov 2023  
-[je-brc-ecr-conf](https://github.com/EalesLabCompBio/EalesLabCompBio.github.io/assets/1412565/3a56def8-bf69-4da8-9224-a3de166346e0)
+![je-brc-ecr-conf](https://github.com/EalesLabCompBio/EalesLabCompBio.github.io/assets/1412565/3a56def8-bf69-4da8-9224-a3de166346e0)
 
 
 
