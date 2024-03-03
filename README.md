@@ -7,12 +7,6 @@ Our main GitHub is [here](https://github.com/EalesLabCompBio)
 
 University of Manchester website is [here](https://research.manchester.ac.uk/en/persons/james.eales)
 
-
-## Publications
-
-[All lab publications listed here](https://research.manchester.ac.uk/en/persons/james.eales/publications/)
-
-
 ## Posters and presentations
 <!--
 example entry for presentation
