@@ -33,25 +33,25 @@ James Eales - Lecturer in Cardiovascular Computational Biology and Principal Inv
 -->
 
 
-## Eman Alammari - MSc Precision Medicine, research project student
+# Eman Alammari - MSc Precision Medicine, research project student
 
 Project: *The impact of dilated cardiomyopathy on cell-type specific gene expression*
 
 ------------------------------------------------------------------------
 
-## Kate Campbell - PhD Student
+# Kate Campbell - PhD Student
 Project: *Drosophila based screening to replace mammalian systems to identify the functional role of candidate genes in controlling muscle dyadic architecture* - co-supervised with Prof Andrew Trafford, Dr Kat Dibb, Prof Andreas Prokop.
 
 ------------------------------------------------------------------------
 
 
-## Maciej Drzal - PhD Student
+# Maciej Drzal - PhD Student
 
 Project: *Multi-omic profiling of the hypertensive kidney* - co-supervised with Prof. Maciej Tomaszewski.
 
 ------------------------------------------------------------------------
 
-## James Eales - Lecturer in Cardiovascular Computational Biology and Principal Investigator
+# James Eales - Lecturer in Cardiovascular Computational Biology and Principal Investigator
 
 ![james-small-github](https://github.com/EalesLabCompBio/EalesLabCompBio.github.io/assets/1412565/4e6cc27a-9eb0-4579-97a6-bae8df237707)
 We run in-silico experiments to investigate the biological mechanisms causal to cardiovascular disease. We do multiomics, deep-learning, molecular diagnostics, translational research, single-cell transcriptomics. We are interested in understanding more about the biology behind hypertension, coronary artery disease, kidney histopathology and alternative splicing.
@@ -63,20 +63,20 @@ We run in-silico experiments to investigate the biological mechanisms causal to 
 
 ------------------------------------------------------------------------
 
-## Sushant Saluja - PhD Student
+# Sushant Saluja - PhD Student
 
 Project: *Therapeutic targeting of blood pressure-associated kidney genes* - co-supervised with Prof Maciej Tomaszewski.
 
 ------------------------------------------------------------------------
 
-## David Scannali - Research Assistant
+# David Scannali - Research Assistant
 
 Currently working on the transcriptomics of heart failure and sex chromosome aneuploidy.  
 Former PhD student *Transcriptomics and epigenomics of chronic kidney disease* - co-supervised with Dr Sabu Abraham, Dr Nick Ashton and Prof Maciej Tomaszewski.
 
 ------------------------------------------------------------------------
 
-## Yong Sun - PhD Student
+# Yong Sun - PhD Student
 
 Project: *Insights into mechanisms of chronic kidney disease from human tissue multi-omics* - co-supervised with Prof Maciej Tomaszewski.
 
