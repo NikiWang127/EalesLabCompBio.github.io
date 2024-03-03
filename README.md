@@ -1,5 +1,5 @@
 ---
-id: main
+id: readme
 title: Main
 sidebar_label: Main
 ---
