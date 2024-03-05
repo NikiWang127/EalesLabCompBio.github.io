@@ -78,6 +78,8 @@ Former PhD student *Transcriptomics and epigenomics of chronic kidney disease* -
 
 ### Yong Sun - PhD Student
 
+![photo](https://github.com/EalesLabCompBio/EalesLabCompBio.github.io/assets/1412565/e8433e75-3f7b-4307-9715-d26e5fbd86a5)
+
 Project: *Insights into mechanisms of chronic kidney disease from human tissue multi-omics* - co-supervised with Prof Maciej Tomaszewski.
 
 ------------------------------------------------------------------------
