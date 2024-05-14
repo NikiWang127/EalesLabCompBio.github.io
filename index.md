@@ -4,6 +4,9 @@ title: Main
 sidebar_label: Main
 ---
 
+![eales-lab-banner-may-24](https://github.com/EalesLabCompBio/EalesLabCompBio.github.io/assets/1412565/89a515e8-c2fa-4716-bab8-f446d6b71721)
+
+
 # Eales Lab at The University of Manchester
 
 Welcome to the Eales lab!
