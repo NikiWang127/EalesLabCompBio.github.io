@@ -11,6 +11,11 @@ James Eales - *Genetic prediction of kidney multi-omics to identify new therapeu
 Scientific Advisory Board for Manchester BRC - “Outstanding Science” theme, February 2024  
 -->
 
+Sushant Saluja - *Whole Genome Survival Analysis of 144,286 People from UK Biobank Identifies Novel Loci Associated with Blood Pressure*
+Division of Cardiovascular Sciences, Postgraduate Showcase, May 2024
+![sushant-saluja-talk](https://github.com/EalesLabCompBio/EalesLabCompBio.github.io/assets/1412565/8823e8e7-8de3-470c-8a60-c427d55b66ff)
+
+
 James Eales - *Genetic prediction of kidney multi-omics to identify new therapeutic and diagnostic targets for hypertension*  
 Scientific Advisory Board for Manchester BRC - “Outstanding Science” theme, February 2024  
 ![je-brc-srb-final](https://github.com/EalesLabCompBio/EalesLabCompBio.github.io/assets/1412565/7516c7b5-b015-4d03-afcb-123481b019ca)
