@@ -1,6 +1,6 @@
 ---
 id: index
-title: Main
+title: The Eales lab | University of Manchester
 sidebar_label: Main
 ---
 
