@@ -63,6 +63,12 @@ We run in-silico experiments to investigate the biological mechanisms causal to 
 
 ------------------------------------------------------------------------
 
+### Qi Wang - PhD Student
+
+Project: *A deep learning model of tissue-specific alternative splicing in cardiovascular disease genes*
+
+------------------------------------------------------------------------
+
 ### Sushant Saluja - PhD Student
 
 Project: *Therapeutic targeting of blood pressure-associated kidney genes* - co-supervised with Prof Maciej Tomaszewski.
