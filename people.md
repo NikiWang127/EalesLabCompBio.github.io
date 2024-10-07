@@ -33,6 +33,15 @@ James Eales - Lecturer in Cardiovascular Computational Biology and Principal Inv
 -->
 
 
+### Qi Wang (Niki) - PhD Student
+
+Project: *A deep learning model of tissue-specific alternative splicing in cardiovascular disease genes*
+
+**E-mail** - `qi.wang-41@postgrad.manchester.ac.uk`
+**ResearchGate** - https://www.researchgate.net/profile/Qi-Wang-662
+
+------------------------------------------------------------------------
+
 ### Eman Alammari - MSc Precision Medicine, research project student
 
 Project: *The impact of dilated cardiomyopathy on cell-type specific gene expression*
