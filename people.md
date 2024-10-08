@@ -84,5 +84,12 @@ Project: *Insights into mechanisms of chronic kidney disease from human tissue m
 
 ------------------------------------------------------------------------
 
+### Qi Wang - PhD Student
+
+Project: *A deep learning model of tissue-specific alternative splicing in cardiovascular disease genes*
+
+**Email** - `qi.wang-41@postgrad.manchester.ac.uk`
+
+
 
 
