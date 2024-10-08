@@ -11,8 +11,8 @@ James Eales - *Genetic prediction of kidney multi-omics to identify new therapeu
 Scientific Advisory Board for Manchester BRC - “Outstanding Science” theme, February 2024  
 -->
 
-Yong Sun - *Integration of kidney multi-omics and plasma proteins yield new mechanistic insights into kidney disease*
-Division of Cardiovascular Sciences, Work In Progress talk, September 2024
+Yong Sun - *Integration of kidney multi-omics and plasma proteins yield new mechanistic insights into kidney disease*  
+Division of Cardiovascular Sciences, Work In Progress talk, September 2024  
 ![yong-talk-sept-24](https://github.com/user-attachments/assets/c0efebc9-56f2-4606-926f-d81edf5e0983)
 
 Sushant Saluja - *Whole Genome Survival Analysis of 144,286 People from UK Biobank Identifies Novel Loci Associated with Blood Pressure*  
