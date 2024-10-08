@@ -13,7 +13,7 @@ Scientific Advisory Board for Manchester BRC - “Outstanding Science” theme, 
 
 Yong Sun - *Integration of kidney multi-omics and plasma proteins yield new mechanistic insights into kidney disease*
 Division of Cardiovascular Sciences, Work In Progress talk, September 2024
-<img width="250" alt="Screenshot 2024-10-08 at 12 26 16" src="https://github.com/user-attachments/assets/c0efebc9-56f2-4606-926f-d81edf5e0983">
+![yong-talk-sept-24](https://github.com/user-attachments/assets/c0efebc9-56f2-4606-926f-d81edf5e0983)
 
 Sushant Saluja - *Whole Genome Survival Analysis of 144,286 People from UK Biobank Identifies Novel Loci Associated with Blood Pressure*  
 Division of Cardiovascular Sciences, Postgraduate Showcase, May 2024  
